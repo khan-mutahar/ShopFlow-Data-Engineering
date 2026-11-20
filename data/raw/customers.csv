@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date
+C0001,Christopher,Barker,millerbrad@example.net,(444)585-0938,Erinchester,Wyoming,India,2025-08-05
+C0002,Matthew,Walker,brianbowers@example.net,001-316-401-9492,New Thomasville,Michigan,India,2025-03-16
+C0003,Timothy,Gutierrez,leecrystal@example.net,998-935-9122,Port Holly,Massachusetts,India,2025-07-26
+C0004,Nancy,Harper,fgrant@example.net,650.622.4803x680,South Andres,Colorado,India,2026-05-04
+C0005,Marcus,Flores,dariusmorris@example.com,992-500-5496,Lake Josephbury,South Dakota,India,2025-07-26
+C0006,Anita,Watson,mariasimpson@example.net,393-927-9437x64714,Elizabethside,West Virginia,India,2025-09-10
+C0007,Adam,Harvey,kristin70@example.com,001-731-687-9744x540,Johnmouth,New Mexico,India,2026-07-06
+C0008,Christopher,Hicks,danieldorsey@example.org,279.734.1026x009,Port Michaelstad,Florida,India,2026-02-28
+C0009,Gabriel,Allen,sharonfinley@example.org,507-920-5845x4223,West Tricia,Mississippi,India,2026-09-10
+C0010,Kevin,Hernandez,oliviataylor@example.org,+1-729-716-3094,North Lauraberg,Mississippi,India,2025-04-08

@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,price,cost,stock_quantity
+P0001,Audience,Electronics,Rodriguez-Bennett,41264,9011,315
+P0002,Job,Footwear,Diaz Group,37271,9569,358
+P0003,Free,Home,Sherman Group,34541,22807,490
+P0004,Continue,Books,Macdonald-Wright,37378,19422,329
+P0005,Financial,Clothing,Gregory and Sons,3710,9262,447
+P0006,Sense,Footwear,Adams-Smith,9466,14367,7
+P0007,Major,Footwear,Robinson-Holt,23830,29318,169
+P0008,Woman,Clothing,"Morris, Peterson and Taylor",18146,585,285
+P0009,Nation,Electronics,Santos and Sons,44057,1009,249
+P0010,Lot,Clothing,Jones Ltd,20834,28230,31
+P0011,When,Books,"Bailey, Bell and Singh",29591,28409,481
+P0012,Until,Footwear,"Stone, Ball and Hall",15621,23085,248
+P0013,Author,Footwear,"Valenzuela, Bell and Dixon",47192,10654,250
+P0014,Sell,Footwear,Burns Ltd,17996,3717,56
+P0015,Soldier,Home,Anderson and Sons,24997,12272,330
+P0016,Education,Electronics,Baird and Sons,48885,20742,115
+P0017,Piece,Footwear,"Elliott, Williams and Garcia",43367,1101,367
+P0018,Sense,Clothing,Hamilton and Sons,19793,17846,380
+P0019,Foot,Home,"Sanchez, Lozano and Petersen",37143,19226,369
+P0020,Office,Electronics,"Rowland, Parker and Miller",19328,19313,135
